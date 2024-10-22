@@ -4,9 +4,9 @@ body {
     background: url("../imagem/background-blur.png") no-repeat;
     background-size: cover;
     color: #221915;
-    overflow: hidden;
     margin: 0;
     padding: 0;
+    overflow-y: hidden;
 }
 
 
@@ -15,8 +15,6 @@ main {
     text-align: center;
     width: 100%;
     padding: 80px 0;
-    position: relative;
-    overflow: hidden;
 }
 
 
